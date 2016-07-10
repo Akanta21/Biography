@@ -1,4 +1,4 @@
-# WDI_Projects
+# WDI Project 1 (Biography)
 
 1. You should create a repository on Github with a gh-pages branch (remember the name is important). Set the branch as the default. Clone the repository locally and you're ready to begin.    
 2. Create 1 or more HTML pages to describe the Person who inspires you. Try to include some of the following tags:    
